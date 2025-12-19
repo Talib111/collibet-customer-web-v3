@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Asatti Garden City",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688829194/alok-verma-80l2FftMuBI-unsplash_ufypau.jpg"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688800820/joshuva-daniel-U4OS-GimdXA-unsplash_grbyvv.jpg"
+  },
+
+  {
+    "name": "Aliva Priva Jardin",
+    "price": "47,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688829186/pranav-kumar-jain-MW0q7zt0OYU-unsplash_z46g5s.jpg"
+  },
+  {
+    "name": "Aliva Priva Jardin",
+    "price": "47,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688829190/rajat-sarki-BMqdsfkZ0I0-unsplash_xr2s58.jpg"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688829193/jubair-ahmed-himu-J6-016hv6Ys-unsplash_wkfw8a.jpg"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688829192/pranav-kumar-jain-tbUfQt4mrBY-unsplash_fju0g6.jpg"
+  },
+
+
+
+
+
+
+
+
+   {
+      "title": "Database",
+      "description":
+        "The bureau maintains a comprehensive database of registered individuals seeking marriage. The database contains profiles of prospective brides and grooms, including their personal details, background, education, occupation, preferences, and partner preferences."
+    },
+    {
+      "title": "Screening and Verification",
+      "description":
+        "The bureau typically conducts background checks and verifies the information provided by individuals during the registration process. This is done to ensure authenticity and maintain the integrity of the service."
+    },
+    {
+      "title": "Registration",
+      "description":
+        "The bureau will have a registration process where individuals interested in finding a partner for marriage can sign up. This may involve filling out a detailed form with personal information, preferences, and requirements."
+    },
+    {
+      "title": "Privacy and Confidentiality",
+      "description":
+        "A reputable marriage bureau prioritizes privacy and confidentiality. They should have measures in place to protect the personal information and identities of their clients."
+    },
+    {
+      "title": "Profile Creation",
+      "description":
+        "The bureau helps individuals create attractive profiles that highlight their personal information, interests, hobbies, values, and what they are looking for in a partner. These profiles are then added to the bureau's database."
+    },
+    {
+      "title": "Communication and Contact",
+      "description":
+        "The bureau facilitates communication between interested individuals by providing their contact details or arranging meetings, either online or in person. They may also provide a platform for individuals to interact and get to know each other."
+    },
+    {
+      "title": "Matchmaking",
+      "description":
+        "The bureau's primary role is to match compatible individuals based on their profiles and preferences. They use various criteria such as age, religion, caste, education, profession, interests, and other factors to identify potential matches."
+    },
+    {
+      "title": "Personalized Assistance",
+      "description":
+        "Marriage bureaus often provide personalized assistance to individuals in their search for a suitable partner. They may offer guidance, advice, and counseling on matters related to marriage and relationships."
+    },
+    {
+      "title": "Fees and Membership",
+      "description":
+        "Marriage bureaus typically charge a fee for their services. The fee structure may vary, ranging from one-time registration fees to membership packages that offer different levels of service and benefits."
+    },
+
+
+
+
+
+
+
+
+
+  {
+    "heading": "Marriage Bureau",
+    "subheading": "Welcome to our marriage bureau! We are here to assist you in finding your ideal life partner. Our experienced team of professionals is dedicated to helping you navigate the process of finding a compatible match. Whether you are looking for a traditional arranged marriage or a love-based partnership, we strive to make the journey as smooth and enjoyable as possible.",
+    "heroimage": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688800926/Rectangle_1_h2cf5t.png"
+  },
+  {
+    "list": [
+      "Personalized Matchmaking",
+      "Background Verification",
+      "Wedding Planning Services",
+      "Profile Creation and Enhancement",
+      "Relationship Guidance"
+    ]
+  }
+]

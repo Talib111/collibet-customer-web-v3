@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Help-Desk",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/help-desk/helpDesk",
+    "image":"marriage.png"
+  },
+  {
+    "title": "Mobiles & Accessories",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/mobile&accessories/mobile-acessories",
+    "image":"doctor.png"
+  },
+  {
+    "title": "Certificates",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/certificates/certificates",
+    "image":"certificate.png"
+  },
+  {
+    "title": "Buy & Sale",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/buy&sale/buySale",
+    "image":"marriage.png"
+  },
+  {
+    "title": "Doctor Consultant",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/doctor/doctor",
+    "image":"doctor.png"
+  },
+  {
+    "title": "Rental Ranchi",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/rental/rental",
+    "image":"doctor.png"
+  },
+  {
+    "title": "Marriage Beuro",
+    "description": "Explore the significance of birth certificates as official government documents.",
+    "link": "/DynamicContent/marriage/marriage",
+    "image":"doctor.png"
+  }
+]

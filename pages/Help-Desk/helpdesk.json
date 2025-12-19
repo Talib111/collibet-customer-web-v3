@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Asatti Garden City",
+      "price": "66,353",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688972055/robert-anasch-y_ZPwFTCp84-unsplash_r402nk.jpg"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "47,043",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688972056/marjan-blan-w1cK5B5z3zA-unsplash_ssnmox.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "35,853",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688970977/erik-mclean-H2q9ATeaC5M-unsplash_wjbeuf.jpg"
+    },
+    
+    {
+      "name": "Asatti Garden City",
+      "price": "66,353",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688972536/markus-winkler-vPbZ1Vo7FiM-unsplash_ivpull.jpg"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "47,043",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688972059/marjan-blan--IKOP2xoJCs-unsplash_e0f1sc.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "35,853",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688972054/milos-lopusina-Oe8Q-mzNUT4-unsplash_wwglsc.jpg"
+    },
+    
+  
+  
+  
+  
+  
+  
+  
+  
+     {
+        "title": "Birth Certificate",
+        "description":
+          " Explore the significance of birth certificates as official government documents that authenticate an individual's identity and provide essential information about their birth, parentage, and registration."
+      },
+      {
+        "title": "Marriage Certificate",
+        "description":
+          "Understand the importance of marriage certificates as legal documents that verify the marriage between two individuals, providing evidence of their union, including dates, locations, and witness names."
+      },
+      {
+        "title": "Educational Certificates",
+        "description":
+          "  Discover the role of educational certificates in validating the completion of specific levels of education or academic qualifications, including diplomas, degrees, transcripts, and other credentials."
+      },
+      {
+        "title": "Employment Certificate",
+        "description":
+          " Explore the purpose of employment certificates as documents provided by employers to certify an individual's work history, including job titles, employment dates, and sometimes salary information."
+      },
+      {
+        "title": "Experience Certificateo",
+        "description":
+          " Learn about the significance of driver's licenses as official government documents that grant individuals the authority to drive vehicles, serving as proof of identity, age, and driving privileges."
+      },
+      {
+        "title": "Seamless Connectivity Worldwide",
+        "description":
+          " Understand the importance of experience certificates as documents issued by employers to validate an individual's work experience, highlighting the duration of employment, job responsibilities, and performance evaluation."
+      },
+      {
+        "title": "Professional Certifications",
+        "description":
+          " Discover the value of professional certifications as credentials awarded by recognized organizations, validating an individual's expertise and competence in a specific field or industry."
+      },
+      {
+        "title": "Non-Government Identification Cards",
+        "description":
+          " Learn about non-government identification cards, such as employee ID cards, student ID cards, or membership cards, which are issued by organizations to identify individuals and grant specific privileges or access."   
+      },
+      {
+        "title": "Authenticity and Legitimacy",
+        "description":
+          " Explore how certificates play a crucial role in validating the authenticity and legality of both government and non-government documents, providing essential evidence in various legal, professional, and personal contexts."
+      },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    {
+      "heading": "Certificate Govt & non Govt documents",
+      "subheading": "Certificates validate the authenticity of government (e.g., birth, marriage, driver's licenses) and non-government (e.g., employment, experience, professional certifications) documents. They serve as evidence, confirming accuracy and legality, crucial for legal, professional, and personal purposes.",
+      "heroimage": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688970628/kelly-sikkema-SiOW0btU0zk-unsplash_eombly.jpg"
+    },
+    {
+      "list": [
+        "Birth Certificate",
+        "Marriage Certificate",
+        "Educational Certificates",
+        "Driver's License",
+        "Experience Certificate"
+      ]
+    }
+  ]
+  

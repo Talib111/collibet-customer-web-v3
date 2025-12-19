@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // Additional, per-project rules...
+    "react/jsx-key": "off",
+    "jsx-a11y/alt-text": "off",
+    "react-hooks/exhaustive-deps": "off", // Skips useEffect dependency warnings
+    "next/image": "off" // Disables Next.js image component warnings
+  }
+}

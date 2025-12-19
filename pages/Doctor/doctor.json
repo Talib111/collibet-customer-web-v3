@@ -1,0 +1,116 @@
+[
+    {
+      "name": "Asatti Garden City",
+      "price": "66,353",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973285/anastasia-nelen-8JKNDO0Jtcc-unsplash_j4s98g.jpg"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "47,043",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973285/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash_re8pl5.jpg"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "66,353",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973722/lucas-vasques-9vnACvX2748-unsplash_lvxzhg.jpg"
+    },
+  
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "47,043",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973281/walter-otto-PT70CT6mATQ-unsplash_uwjkov.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "35,853",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973286/piron-guillaume-U4FyCp3-KzY-unsplash_kmffzd.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "35,853",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973285/usman-yousaf-atn5XAZtRYE-unsplash_o5vbey.jpg"
+    },
+  
+  
+  
+  
+  
+  
+  
+  
+     {
+        "title": "Specialty and Expertise",
+        "description":
+          "Find doctors specializing in your specific medical needs, such as cardiology, orthopedics, neurology, and more. Look for extensive experience and qualifications in their respective fields"
+      },
+      {
+        "title": "Referrals and Recommendations",
+        "description":
+          "Discover trusted doctors through recommendations from friends, family, or healthcare professionals. Get insights into doctors known for delivering high-quality care and positive patient experiences."
+      },
+      {
+        "title": "Credentials and Certifications",
+        "description":
+          "Verify the credentials of doctors, including medical degrees, board certifications, and professional affiliations. These qualifications indicate their training, expertise, and commitment to high medical standards."
+      },
+      {
+        "title": "Hospital Affiliations",
+        "description":
+          "Choose doctors with experience in treating patients with conditions similar to yours. Consider success rates, patient outcomes, and specialized procedures or treatments they offer."
+      },
+      {
+        "title": "Insurance Coverage",
+        "description":
+          "Check if doctors accept your health insurance plan. Understanding the financial aspect of consultations and treatments is crucial to avoid unexpected expenses"
+      },
+      {
+        "title": "Communication and Contact",
+        "description":
+          "Consider doctors affiliated with reputable hospitals or medical centers. Assess the reputation, facilities, and quality of care provided. Affiliation with a renowned hospital grants access to advanced tools and treatments"
+      },
+      {
+        "title": "Positive Patient Experiences",
+        "description":
+          "Seek doctors who prioritize positive patient experiences. Look for testimonials and reviews highlighting doctors' commitment to providing exceptional care and building strong patient-doctor relationships."
+      },
+      {
+        "title": "Communication and Bedside Manner",
+        "description":
+          "Prioritize doctors who excel in communication and have a compassionate bedside manner. Look for active listeners who explain medical conditions clearly and address your concerns with empathy."   
+      },
+      {
+        "title": "Availability and Accessibility",
+        "description":
+          "Ensure the doctor's availability for appointments and accessibility in emergencies or follow-up queries. Choose a doctor who can accommodate your schedule and provide ongoing support."
+      },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    {
+      "heading": "Doctor Consultants best as per requirement",
+      "subheading": "When it comes to selecting the best doctor consultants as per your requirements, several factors should be considered to ensure you receive the appropriate medical expertise and care. Here are some key considerations:",
+      "heroimage": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1688973289/national-cancer-institute-KrsoedfRAf4-unsplash_dlurwc.jpg"
+    },
+    {
+      "list": [
+        "Specialty and Expertise",
+        "Referrals and Recommendations",
+        "Credentials and Certifications",
+        "Availability and Accessibility",
+        "Hospital Affiliations"
+      ]
+    }
+  ]
+  

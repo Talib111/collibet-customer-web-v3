@@ -1,0 +1,7 @@
+export const SET_AUTHENTICATION = 'SET_AUTHENTICATION';
+export const SET_PROFILE_DATA = 'SET_PROFILE_DATA';
+export const SET_CART_COUNT = 'SET_CART_COUNT';
+export const SET_IS_PROFILE = 'SET_IS_PROFILE';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_LOGOUT = 'SET_LOGOUT';
+
