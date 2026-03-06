@@ -163,11 +163,11 @@ const DownloadApp2 = () => {
 	};
 
 	const socialLinks = [
-		{ icon: FaInstagram, href: "https://www.instagram.com/collibet_services/", label: "Instagram", color: "hover:text-pink-500" },
+		{ icon: FaInstagram, href: "https://www.instagram.com/collibet_tailor/", label: "Instagram", color: "hover:text-pink-500" },
 		{ icon: FaFacebook, href: "https://www.facebook.com/people/Collibet/61552122944834/", label: "Facebook", color: "hover:text-blue-500" },
 		{ icon: FaLinkedin, href: "https://www.linkedin.com/company/collibet-info-services-pvt-ltd/", label: "LinkedIn", color: "hover:text-blue-400" },
-		{ icon: FaYoutube, href: "https://www.youtube.com/@CollibetPvtLtd", label: "YouTube", color: "hover:text-red-500" },
-		{ icon: FaTwitter, href: "https://x.com/collibetsupport", label: "X (Twitter)", color: "hover:text-blue-400" },
+		{ icon: FaYoutube, href: "https://www.youtube.com/@Collibet", label: "YouTube", color: "hover:text-red-500" },
+		{ icon: FaTwitter, href: "https://x.com/Collibettailor", label: "X (Twitter)", color: "hover:text-blue-400" },
 		{ icon: FaWhatsapp, href: "https://wa.link/z6tz81", label: "WhatsApp", color: "hover:text-green-500" },
 		{ icon: FaEnvelope, href: "mailto:Support@collibet.com", label: "Email", color: "hover:text-yellow-500" },
 	];
